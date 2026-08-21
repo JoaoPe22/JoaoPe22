@@ -33,4 +33,4 @@ Técnico e Analista e Desenvolvedor de Sistemas na BSY CONSULTORIA AMBIENTAL.
 [![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joao.canezin22@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joao_canezin)
 
-![Snake animation](https://github.com/JoaoPe22/JoaoPe22/raw/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/JoaoPe22/JoaoPe22/output/github-contribution-grid-snake.gif)
